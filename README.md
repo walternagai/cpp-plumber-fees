@@ -3,6 +3,7 @@
 Considere a empresa Clean-clean que oferece um serviço de encanador residencial a um preço fixo de R$ 35 por visita.
 Semanalmente, a empresa fica com 8% de comissão de cada visita do encanador registrado.
 Escreva um programa que leia a quantidade de visitas do encanador por semana, calcule a comissão da empresa e mostre somente o ganho líquido semanal do encanador.
+*Observação*: use constantes para o preço fixo e a porcentagem de comissão.
 
 ## Exemplos de valores
 
