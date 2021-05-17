@@ -1,19 +1,13 @@
-# cpp-investment-brazil
+# cpp-plumber-fees
 
-Considere um investimento feito no exterior em Euros em um país europeu nomeado PX.
-
-Todo investidor brasileiro tem que declarar a Receita Federal o valor desse investimento.
-
-O valor a ser declarado não é convertido diretamente de Euros para Reais, pois o Banco Central exige que um valor em Euros do país PX deve ser convertido para Dólares EUA e, posteriormente, de Dólares para Reais, segundo a cotação diária no Brasil. A cotação de cada moeda depende das variações e regulações financeiras de cada país.
+Considere a empresa Clean-clean que oferece um serviço de encanador residencial a um preço fixo de R$ 35 por visita.
+Semanalmente, a empresa fica com 8% de comissão de cada visita do encanador registrado.
+Escreva um programa que leia a quantidade de visitas do encanador por semana, calcule a comissão da empresa e mostre somente o ganho líquido semanal do encanador.
 
 ## Exemplos de valores
 
-* Valor do investimento em Euros? 1000
-* 1 Dólar equivale a quantos Euros? 0.8306
-* R$ 1 equivale a quantos Dólares? 0.1795
-* Investimento em Reais = R$ 6707.24
-
-## Algoritmo
-
-* Calcule o valor de Euros para Dólares
-* Calcule o valor de Dólares para Reais
+* Visitas = 5, Comissão = R$ 14, Ganho líquido = R$ 161
+* Visitas = 10, Comissão = R$ 28, Ganho líquido = R$ 322
+* Visitas = 21, Comissão = R$ 58.8, Ganho líquido = R$ 676.2
+* Visitas = 45, Comissão = R$ 126, Ganho líquido = R$ 1449
+* Visitas = 50, Comissão = R$ 140, Ganho líquido = R$ 1610
